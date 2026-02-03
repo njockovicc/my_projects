@@ -21,6 +21,6 @@ https://github.com/njockovicc/Vue---Pixel-Art-projekat
 Desktop aplikacija za pregled, izvoz i analizu rasporeda časova. 
 Projekat je razvijen u Javi koristeći JavaFX i demonstrira primenu objektno-orijentisanog programiranja, rada sa fajlovima i GUI aplikacijama.
 Repozitorijum:
-https://github.com/njockovicc/
+https://github.com/njockovicc/JavaFX-aplikacija
 
 
