@@ -17,3 +17,6 @@ Web aplikacija za kolaborativno pixel-art crtanje razvijena u okviru kursa Skrip
 Repozitorijuma:
 https://github.com/njockovicc/Vue---Pixel-Art-projekat 
 
+### JavaFX-aplikacija 
+
+
