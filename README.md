@@ -23,4 +23,9 @@ Projekat je razvijen u Javi koristeći JavaFX i demonstrira primenu objektno-ori
 Repozitorijum:
 https://github.com/njockovicc/JavaFX-aplikacija
 
+### Kontrola Unity igrice motornom imaginacijom
+Projekat integriše obradu moždanih signala sa Unity igrom kako bi se omogućilo upravljanje putem motorne imaginacije (zamišljeni pokreti).
+EEG signali se obrađuju i prevode u komande koje kontrolišu kretanje ili objekte u igri.
+Repozitorijum:https://github.com/njockovicc/Kontrola-Unity-igrice-sa-Motornom-imaginacijom/tree/main
+
 
